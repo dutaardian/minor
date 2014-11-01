@@ -1,0 +1,127 @@
+body{
+	background: #DAD5C1;
+	font-family:"Helvetica","Arial",Tahoma;
+}
+
+h3{
+	text-align:center;
+	text-decoration :none;
+}
+left-col{
+	
+	list-style:none;
+	text-decoration:none;
+}
+
+p{
+	padding:2%;
+}
+img{
+	text-align:center;
+	max-width:100%;
+	height:auto;
+	width:auto;
+}
+#wrapper{
+	margin:0 auto;
+	max-width:980px;
+	width:96%;
+	background #000000;
+	padding: 2%;
+	border-radius:10px;
+}
+header{
+	padding : 5px;
+	text-align:center;
+}
+
+
+nav{
+	background:#A09885;
+	padding:3%;
+	margin:10 0;
+	border-radius: 10px;
+}
+nav ul{
+	list-style :none;
+	margin-left:1%;
+	padding:5px;
+}
+
+nav li a{
+	color:white;
+	display:block;
+	float:left;
+	padding:15px;
+	text-decoration:none;
+	
+}
+
+table{
+	text-align:center;
+}
+
+nav a:hover , nav li.active a {
+	background:#322f2c;
+	color:#fff;
+}
+
+.clear{
+	clear:both;
+}
+
+#socialMedia {
+	text-align:center;
+}
+#socialMedia img{
+	padding-top:5px;
+	height:50px;
+	width:50px;
+}
+
+.left-col{
+	background:white;
+	width:60%;
+	float:left;
+	margin-top:2%;
+	border-radius:10px;
+}
+
+.sidebar{
+	background:white;
+	width:30%;
+	float:right;
+	margin-top:2%;
+	border-radius:10px;
+}
+
+.vid{
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+}
+
+.vid iframe{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
